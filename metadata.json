@@ -1,0 +1,12 @@
+{
+  "name": "Clarence Dollar",
+  "symbol": "CLD",
+  "description": "El mismísimo Clarence de traje dominando la red de Solana.",
+  "image": "https://raw.githubusercontent.com/Daniel73636/clarence-dollar-assets/main/clarenceDollar.png",
+  "attributes": [
+    {
+      "trait_type": "Outfit",
+      "value": "Suit"
+    }
+  ]
+}
